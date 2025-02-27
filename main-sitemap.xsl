@@ -11,10 +11,10 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Locations Sitemap - Lee&#039;s Summit Pest Guys</title>
+						<title>Locations Sitemap - Quincy Pest Control Company</title>
 					</xsl:when>
 					<xsl:otherwise>
-						<title>XML Sitemap - Lee&#039;s Summit Pest Guys</title>
+						<title>XML Sitemap - Quincy Pest Control Company</title>
 					</xsl:otherwise>
 				</xsl:choose>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
